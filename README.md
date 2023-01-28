@@ -4,7 +4,7 @@ This is the github page of The final project for MAA205 - Algorithms for Discret
 
 1. [**Web Page!**] - https://catalan.netlify.app/
 2. [**Source Code**] - [link](https://github.com/yubocai-poly/Algorithms-for-Discrete-Mathematics-and-Final-Project/tree/main/MAA205_FinalProject)
-3. [**PDF Report**] - [link]()
+3. [**PDF Report**] - [link](https://drive.google.com/file/d/1zvtbcwvfCU3Eh_8UOTtTe66fCsBBrsAr/view?usp=sharing)
 
 In this project, we focus on the properties and applications of Catalan number through numerical algorithms and analytical tools.
 

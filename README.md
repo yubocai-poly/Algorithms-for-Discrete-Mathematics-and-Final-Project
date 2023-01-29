@@ -1,5 +1,5 @@
 # MAA205 - Algorithms for Discrete Mathematics
-## Final Project - Numerical Algorithms for Analysis of Catalan Number
+## 1. Final Project - Numerical Algorithms for Analysis of Catalan Number
 This is the github page of The final project for MAA205 - Algorithms for Discrete Mathematics at Ecole Polytechnique provided by Professor Lucas Gerin. The whole project is implemented through `Jupyter Notebook`. You can find the website of this project, sources code, pdf version of the project in the following link.
 
 1. [**Web Page!**] - https://catalan.netlify.app/
@@ -16,7 +16,7 @@ In this project, we focus on the properties and applications of Catalan number t
 
 - **Chapter 5**, In the last chapter, we will discover some application in Combinatorial mathematics and some paths algorithmic problems.
 
-## Course Content
+## 2. Course Content
 
 This is the advanced course of MAA103-Discrete Mathematics and we trying to use programming to apply some algorithms in discrete mathematics.
 
